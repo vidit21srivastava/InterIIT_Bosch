@@ -2,9 +2,7 @@
 A Bosch's Age-Gender Detection model for Inter IIT Tech Meet Mid-Prep Challenge 2022
 ## Inter IIT Tech-Meet 10.0 (2022)
 
-![image](https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg)
-![image](https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Indian_Institute_of_Technology_Bhubaneswar_Logo.svg/240px-Indian_Institute_of_Technology_Bhubaneswar_Logo.svg.png)
-![image](https://interiit-tech.org/static/media/logo_1.f4d40e83.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" width=400><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Indian_Institute_of_Technology_Bhubaneswar_Logo.svg/240px-Indian_Institute_of_Technology_Bhubaneswar_Logo.svg.png" width=200><img src="https://interiit-tech.org/static/media/logo_1.f4d40e83.png" width=200>
 
 ## Introduction
 In this project, we will implement [SRGAN](https://arxiv.org/abs/1609.04802) based model that can estimate people's gender and age from a surveillance video feed such as one from a mall, a retail store, or a hospital, while taking into account low quality cameras and cameras placed at a height for surveillance.
