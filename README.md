@@ -15,8 +15,8 @@ To build a solution to estimate the gender and age of people from a surveillance
 mall, retail store, hospital etc.). Consider low resolution cameras as well as cameras put at a
 height for surveillance.
 
-- [ ] Image preprocessing:-SRGAN algorithms.
-- [ ] Classification and estimation: Deep learning and neural networks
+- [x] Image preprocessing:-SRGAN algorithms.
+- [x] Classification and estimation: Deep learning and neural networks
 
 
 
