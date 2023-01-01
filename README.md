@@ -1,7 +1,7 @@
 # InterIIT 2022 Age Gender detection IITBBS
 
 ## Dependencies
----
+
 Use python 3.5+ (We used 3.7.12)
 
 To install the dependencies run the following commands:
@@ -46,7 +46,7 @@ The following lines are to be uncommented the *main.py* file:
 ```
 
 ## How does it work?
----
+
 The general pipeline is as follows:
 
 <!-- //Image should come here -->
