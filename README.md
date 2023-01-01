@@ -50,7 +50,7 @@ The following lines are to be uncommented the *main.py* file:
 The general pipeline is as follows:
 
 <!-- //Image should come here -->
-![Pipeline](pipeline.svg)
+![Pipeline](Pipeline.png)
 ### Face Detection
 We use [**Retina face**](https://github.com/serengil/retinaface) [[Paper](https://arxiv.org/abs/1905.00641)] for face detection in Dense crowds.(Briefly mention about how it works)
 
