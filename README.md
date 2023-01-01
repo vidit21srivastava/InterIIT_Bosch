@@ -1,4 +1,4 @@
-# InterIIT 2022 Age Gender detection IITBBS
+# InterIIT 2022 Age Gender Detection IITBBS
 
 ## Dependencies
 
