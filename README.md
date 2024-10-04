@@ -1,4 +1,4 @@
-# Inter IIT Tech Meet 10.0 Bosch Age Gender Detection - IITBBS
+# Inter IIT Tech Meet 10.0 Bosch Age Gender Detection - ML Challenge
 
 ## Dependencies
 
